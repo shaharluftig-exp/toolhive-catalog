@@ -16,8 +16,8 @@
   ],
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/explorium-ai/vibeprospecting-plugin/main/assets/icon.png",
-      "mimeType": "image/png",
+      "src": "https://raw.githubusercontent.com/stacklok/toolhive-registry/main/registries/toolhive/servers/vibe-prospecting-remote/icon.svg",
+      "mimeType": "image/svg+xml",
       "sizes": [
         "any"
       ]
